@@ -11,4 +11,3 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
-C:\Users\Midan\AndroidStudioProjects\FoodHacks
